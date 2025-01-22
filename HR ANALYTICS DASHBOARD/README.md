@@ -1,6 +1,7 @@
 
 # 📊 HR Analytics Dashboard: Enhancing Employee Performance and Retention
 
+![Image](https://github.com/user-attachments/assets/18a0f828-b313-4ef0-a07b-f4eed1861054)
 ## 📝 Objective
 Help an organization improve employee performance and reduce attrition by creating an HR analytics dashboard.
 
