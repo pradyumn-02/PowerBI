@@ -1,5 +1,6 @@
 # 📊 Project : Sales Forecasting and Data Analysis
 ![Image](https://github.com/user-attachments/assets/0919d05d-7503-4088-9693-5f38263e0db3)
+![Image](https://github.com/user-attachments/assets/52191747-a513-4065-946b-c58e1772e03a)
 ## 📝 Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
